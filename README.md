@@ -1,4 +1,6 @@
-# Multilingual AI Chatbot for MAJU
+# Multilingual MAJU Information Chatbot — Generative AI Course Project
+
+Developed as a student course project for the Generative AI course at Muhammad Ali Jinnah University (MAJU). This project is not an official MAJU service.
 
 A Python notebook that answers MAJU university questions in English and Urdu using retrieval-augmented generation (RAG). It retrieves information from a text dataset, generates answers through Groq, and includes speech-to-text and text-to-speech experiments.
 
